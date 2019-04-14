@@ -3,6 +3,7 @@
 
 int main (){
     bienvenida();
+    printf("\nHola mundo");
 
 
     return 0;
